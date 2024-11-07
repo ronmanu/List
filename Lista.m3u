@@ -1,4 +1,20 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml"
+#EXTM3U url-tvg="https://xmltv.info/de/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/turkeypremium1.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/poland.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/unitedstatespremium1.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/netherlands.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/romania.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/italypremium.xml"
+#EXTM3U url-tvg="https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml"
+
+#EXTM3U url-tvg="https://iptvx.one/EPG.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/poland.xml, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/unitedstatespremium1.xml, https://www.bevy.be/bevyfiles/netherlands.xml, https://www.bevy.be/bevyfiles/romania.xml, https://www.bevy.be/bevyfiles/italypremium.xml, https://iptvx.one/EPG, https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="M LaLiga" tvg-id="LaLiga TV BAR HD", La Liga BAR 1080
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV UHD", M. LaLiga 1 UHD
