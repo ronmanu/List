@@ -285,3 +285,12 @@ acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 tvg-id="M+ Deportes 7" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg"  group-title="M Deportes", M. Deportes 7 1080
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
+#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/esp_logo/,estrnos.png" group-title="ES ⋅ MOVISTAR CANALES",M+ ESTRENOS HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:32:57:98&stream=728779&extension=ts
+#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/esp_logo/esteno2.png" group-title="ES ⋅ MOVISTAR CANALES",M+ ESTRENOS FHD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:32:57:98&stream=728781&extension=ts
+#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/esp_logo/esteno2.png" group-title="ES ⋅ MOVISTAR CANALES",M+ ESTRENOS 2 FHD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:32:57:98&stream=728783&extension=ts
+#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/esp_logo/MovistarDrama.png" group-title="ES ⋅ MOVISTAR CANALES",M+ DRAMA FHD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:32:57:98&stream=728784&extension=ts
+#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/esp_logo/MovistarDrama.png" group-title="ES ⋅ MOVISTAR CANALES",M+ DRAMA HD
