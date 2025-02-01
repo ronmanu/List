@@ -1,22 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlliQuCupf8fpTH7RAor3aKMGy.jpg", group-title="Pelis 2024",Silo 2x02  BluRay 720pRip [8.2]
-acestream://9e48469cf07cd9b6856a17fea6f47d436255aa21
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlliQuCupf8fpTH7RAor3aKMGy.jpg", group-title="Pelis 2024",Silo 2x03  BluRay 720pRip [8.2]
-acestream://bbc1a3b26991e0f4ddf76b63c4d3cf4c037ff2a1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlliQuCupf8fpTH7RAor3aKMGy.jpg", group-title="Pelis 2024",Silo 2x04  BluRay 720pRip [8.2]
-acestream://e75216c0a906296905ec5e8a23de7104e830236d
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlliQuCupf8fpTH7RAor3aKMGy.jpg", group-title="Pelis 2024",Silo 2x05  BluRay 720pRip [8.2]
-acestream://b2bb9789f3ead39faadb6c071419cc3bdee20da7
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlliQuCupf8fpTH7RAor3aKMGy.jpg", group-title="Pelis 2024",Silo 2x06  BluRay 720pRip [8.2]
-acestream://2a90db6b90f34f07f3e707e95a8ada5b5d2b30c9
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlliQuCupf8fpTH7RAor3aKMGy.jpg", group-title="Pelis 2024",Silo 2x07  BluRay 720pRip [8.2]
-acestream://4f2d467cd362739f4ce59edef5e2a97942889a3e
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlliQuCupf8fpTH7RAor3aKMGy.jpg", group-title="Pelis 2024",Silo 2x08  BluRay 720pRip [8.2]
-acestream://f5cb2db71a568ce2b3206353cb46e9bb493e9ab3
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlliQuCupf8fpTH7RAor3aKMGy.jpg", group-title="Pelis 2024",Silo 2x09  BluRay 720pRip [8.2]
-acestream://e731e4314d7c74cd5499292da849bb20e6ed406e
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bit1B5F7IQydiWqdwAAD8f9TkXs.jpg" ,Vaiana 2 (2024) BluRay 720p [7.1*]
+acestream://ca68e897b52d91f4373f3679ddb1f55a9599b293
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8nL536SEMBRcoHs5fipgO7991m.jpg", group-title="Pelis 2025",Amor a 39 grados  BluRay 720pRip [7.6]
 acestream://aa81acad155c00311c2444a1ac3c08f3fabac0d9
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7M2hKZWhmNvdtFRCjnyRE7JS9Ao.jpg" ,Emmanuelle (2024) BluRay 720p [5.1*]
+acestream://1c4f167bfdc049fb4d372d0a19dfe395635b3521
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/75O9xgGobL0FIIgayMxwuL8PeLJ.jpg" ,The Island (2023) BluRay 720p [6.0*]
+acestream://66cb0ffce63ab1d99377e986bd5cc65ecf535242
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9vcohEsWqLlFtDANavII0Webhdu.jpg" ,Amor a 39 grados (2024) BluRay 720p [7.6*]
+acestream://aa81acad155c00311c2444a1ac3c08f3fabac0d9
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ibgk6uhR1H6ZzQWGSs4zgw0230h.jpg" ,Bagman (2024) BluRay 720p [6.2*]
+acestream://1d73637425e1184a34f6fe5ee96cf9a919f35f1a
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eECi8bMz5XrAzqucLBLIXg90H4F.jpg" ,El retorno (2025) BluRay 720p [.*]
+acestream://08cfca99214864f2fbdddf33338fa653f5ef7456
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg", group-title="Pelis 2025",Sonic 3 La pelicula  BluRay 720pRip [7.8]
 acestream://5d34797a950260b626c665d3733481aeffa5f0ed
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e3RlFieqU0HzY2g5FwnVIat3knC.jpg", group-title="Pelis 2024",El juego del asesino  BluRay 720p [6.7*]
