@@ -1,25 +1,25 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml" refresh="3600"
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-id="DAZN_Baloncesto_720_" tvg-name="DAZN Baloncesto 720" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="LIGA ENDESA",DAZN Baloncesto 720
+#EXTINF:-1 tvg-id="DAZN_Baloncesto_720_" tvg-name="DAZN Baloncesto 720" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="BALONCESTO",DAZN Baloncesto 720
 acestream://4005aabe21ba9c6d748845db91e4f48d99f58639
-#EXTINF:-1 tvg-id="DAZN_Baloncesto_1080_" tvg-name="DAZN Baloncesto 1080" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="LIGA ENDESA",DAZN Baloncesto 1080
+#EXTINF:-1 tvg-id="DAZN_Baloncesto_1080_" tvg-name="DAZN Baloncesto 1080" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="BALONCESTO",DAZN Baloncesto 1080
 acestream://6fbd92735502bdebbf1ea58f4298e49759c0cf07
-#EXTINF:-1 tvg-id="DAZN_Baloncesto_1080_" tvg-name="DAZN Baloncesto 1080" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="LIGA ENDESA",DAZN Baloncesto 1080
+#EXTINF:-1 tvg-id="DAZN_Baloncesto_1080_" tvg-name="DAZN Baloncesto 1080" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="BALONCESTO",DAZN Baloncesto 1080
 acestream://2cfbb2cb8923b15b0ef74aba69e8137b0fbbba2e
-#EXTINF:-1 tvg-id="DAZN_Baloncesto_2_720_" tvg-name="DAZN Baloncesto 2 720" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="LIGA ENDESA",DAZN Baloncesto 2 720
+#EXTINF:-1 tvg-id="DAZN_Baloncesto_2_720_" tvg-name="DAZN Baloncesto 2 720" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="BALONCESTO",DAZN Baloncesto 2 720
 acestream://fc912a111ea5a88e02b858b5014d2358b11c84ac
-#EXTINF:-1 tvg-id="DAZN_Baloncesto_2_1080_" tvg-name="DAZN Baloncesto 2 1080" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="LIGA ENDESA",DAZN Baloncesto 2 1080
+#EXTINF:-1 tvg-id="DAZN_Baloncesto_2_1080_" tvg-name="DAZN Baloncesto 2 1080" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="BALONCESTO",DAZN Baloncesto 2 1080
 acestream://853129258a5cb51f27829eddb934e58b45978344
-#EXTINF:-1 tvg-id="DAZN_Baloncesto_3_720_" tvg-name="DAZN Baloncesto 3 720" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="LIGA ENDESA",DAZN Baloncesto 3 720
+#EXTINF:-1 tvg-id="DAZN_Baloncesto_3_720_" tvg-name="DAZN Baloncesto 3 720" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="BALONCESTO",DAZN Baloncesto 3 720
 acestream://95125f755562c0ffcb44abd94e338bd65472afea
-#EXTINF:-1 tvg-id="DAZN_Baloncesto_3_1080_" tvg-name="DAZN Baloncesto 3 1080" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="LIGA ENDESA",DAZN Baloncesto 3 1080
+#EXTINF:-1 tvg-id="DAZN_Baloncesto_3_1080_" tvg-name="DAZN Baloncesto 3 1080" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="BALONCESTO",DAZN Baloncesto 3 1080
 acestream://13d68ecb392251a81489ce75be90388498ecfb91
-#EXTINF:-1 tvg-id="M_Baloncesto_1080_" tvg-name="M+ Baloncesto 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="LIGA ENDESA",M+ Baloncesto 1080
+#EXTINF:-1 tvg-id="M_Baloncesto_1080_" tvg-name="M+ Baloncesto 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="BALONCESTO",M+ Baloncesto 1080
 acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
-#EXTINF:-1 tvg-id="M_Baloncesto_2_1080_" tvg-name="M+ Baloncesto 2 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="LIGA ENDESA",M+ Baloncesto 2 1080
+#EXTINF:-1 tvg-id="M_Baloncesto_2_1080_" tvg-name="M+ Baloncesto 2 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="BALONCESTO",M+ Baloncesto 2 1080
 acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
-#EXTINF:-1 tvg-id="M_Baloncesto_3_1080_" tvg-name="M+ Baloncesto 3 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="LIGA ENDESA",M+ Baloncesto 3 1080
+#EXTINF:-1 tvg-id="M_Baloncesto_3_1080_" tvg-name="M+ Baloncesto 3 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="BALONCESTO",M+ Baloncesto 3 1080
 acestream://7b0193004089d4d29821a5cdf17f407d0d192314
 #EXTINF:-1 tvg-id="DAZN_1_1080_" tvg-name="DAZN 1 1080" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 1 1080
 acestream://dddff67edfa7061f643ec5ae0be110169850363d
@@ -229,7 +229,7 @@ acestream://b18dda520e112e48a33d6d0ae558681b9ecfbb4d
 acestream://342ca6975a4884d81f9fec5c4085a47060bd2028
 #EXTINF:-1 tvg-id="Dazn_MotoGP_1080_" tvg-name="Dazn MotoGP 1080" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",Dazn MotoGP 1080
 acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
-#EXTINF:-1 tvg-id="NBA_ESPN_720_" tvg-name="NBA ESPN 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="NBA",NBA ESPN 720
+#EXTINF:-1 tvg-id="NBA_ESPN_720_" tvg-name="NBA ESPN 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="BALONCESTO",NBA ESPN 720
 acestream://bf3773e7f5e53c11347c70c18bd085322efbc90f
 #EXTINF:-1 tvg-id="Sky_Sport_Tennis_1080_" tvg-name="Sky Sport Tennis 1080" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/tennis-channel-logo-e1518530950839.jpg" group-title="TENNIS",Sky Sport Tennis 1080
 acestream://f31d1f85570b58be8d5ab6f4f2d0f3f9c815c35f
@@ -241,7 +241,7 @@ acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
 acestream://a895ab5bcc8beba2d2aa6d5aa332927f005baa65
 #EXTINF:-1 tvg-id="UFC_FIGHT_PASS_" tvg-name="UFC FIGHT PASS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="UFC",UFC FIGHT PASS
 acestream://138f0b038420a425d376cb5c85d3d61570466b20
-#EXTINF:-1 tvg-id="OFF_siempre_" tvg-name="OFF siempre" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",OFF siempre
+#EXTINF:-1 tvg-id="OFF_siempre_" tvg-name="OFF siempre" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="OTROS",OFF siempre
 acestream://bcb9b676516abdcc741e05360e2e27b487a2f1b3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 1 (1RFEF)" group-title="1RFEF", Canal 1 (1RFEF) (SOLO EVENTOS)
 acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
